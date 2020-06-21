@@ -9,10 +9,8 @@ $flex-sa: space-around;
 $flex-col: column-reverse;
 $flex-row: row-reverse;
 // =============
-$f400: 'raleway-r';
-$f500: 'raleway-m';
-$f600: 'raleway-sb';
-$f700: 'raleway-b';
+$f400: 'mont-r';
+$f700: 'mont-b';
 // =============
 @mixin media($mw) {
     @media (max-width: #{$mw}px) {
